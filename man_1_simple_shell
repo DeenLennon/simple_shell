@@ -102,17 +102,39 @@ Running commands with arguments:
 	($) ls -l
 .br
 	total 72
+.br 	
+	-rw-r--r-- 1 root root   226 Jul 27 21:27 AUTHORS
 .br
-	-rw-rw-r-- 1 vagrant vagrant   343 Jul 27 01:02 built_in.c
+	-rw-r--r-- 1 root root  1849 Jul 28 04:04 built_in.c
 .br
-	-rw-rw-r-- 1 vagrant vagrant   850 Apr 12 01:02 error.c
+	-rw-r--r-- 1 root root  1375 Jul 28 04:10 error.c
 .br
-	-rw-rw-r-- 1 vagrant vagrant   555 Apr 12 14:27 execute_line.c
+	-rw-r--r-- 1 root root   907 Jul 28 04:13 execute_line.c
 .br
-	-rw-rw-r-- 1 vagrant vagrant   305 Apr 10 00:46 _getenv.c
+	-rw-r--r-- 1 root root   452 Jul 28 04:14 free_loop.c
+.br 
+	-rw-r--r-- 1 root root   442 Jul 27 21:29 _getenv.c
 .br
-	-rwxrwxr-x 1 vagrant vagrant 14563 Apr 12 12:57 hsh
+	-rwxr-xr-x 1 root root 22696 Jul 28 04:36 hsh
 .br
+	-rw-r--r-- 1 root root   852 Jul 28 04:19 list_path.c
+.br
+	-rw-r--r-- 1 root root  2993 Jul 28 04:52 man_1_simple_shell
+.br
+	-rw-r--r-- 1 root root    23 Jul 27 20:58 README.md
+.br
+	-rw-r--r-- 1 root root  1077 Jul 28 04:29 shell.c
+.br
+	-rw-r--r-- 1 root root  1416 Jul 28 04:06 shell.h
+.br
+	-rw-r--r-- 1 root root   841 Jul 28 04:31 special_case.c
+.br
+	-rw-r--r-- 1 root root   837 Jul 28 04:32 split_line.c
+.br
+	-rw-r--r-- 1 root root  1740 Jul 28 04:33 useful_func.c
+.br
+	-rw-r--r-- 1 root root   699 Jul 28 04:02 _which.c
+
 	($)
 
 .br
